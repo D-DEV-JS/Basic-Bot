@@ -8,8 +8,4 @@ Now that you installed the said apps you will need to create a file called "conf
 
 The file should look something like this:
 
-{
- "token": "Super_Secret_Token",
- "prefix": "!"
-} 
-e
+https://lh3.googleusercontent.com/o5QIq6MOAQkloxgaJDP0Bz1V-Pbv6CsDj6M-Uj7R8baV22I7_0OU9_BHqP0lR2lAllkkRg=s170
