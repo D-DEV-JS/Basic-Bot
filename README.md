@@ -12,3 +12,4 @@ The file should look something like this:
  "token": "Super_Secret_Token",
  "prefix": "!"
 } 
+e
